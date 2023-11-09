@@ -21,7 +21,7 @@ const ProjectCardData = [
         imgsrc: pro3, 
         title: "ASL Detector with Tensorflow and Keras",
         text: "The ASL Detector with TensorFlow and Keras is an innovative project that utilizes machine learning and deep learning techniques to recognize American Sign Language (ASL) gestures. Using TensorFlow and Keras, this application can identify ASL signs with impressive accuracy, making it a valuable tool for the deaf and hard-of-hearing community to bridge communication gaps through technology.",
-        view: "ex.com",
+        view: "https://youtu.be/_RqBNWnrs6g",
         source: "https://github.com/Kaustubh-404/ML-Projects"
     }
 ];
